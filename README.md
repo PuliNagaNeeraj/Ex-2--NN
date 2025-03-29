@@ -1,6 +1,6 @@
-<H3>Name</H3> Puli Naga Neeraj
-<H3>Register no.</H3> 212223240130
-<H3>Date</H3> 29-03-2025
+<H3>Name</H3>Puli Naga Neeraj
+<H3>Register no.</H3>212223240130
+<H3>Date</H3>29-03-2025
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
@@ -124,7 +124,7 @@ plt.show()
 ```
 # OUTPUT:
 
-![image](https://github.com/user-attachments/assets/67d86fc5-37d0-49b6-b1e6-22a2c580904f)
+![image](https://github.com/user-attachments/assets/bd9f5489-9efa-4ad2-b5a5-45d0cbbd97d5)
 
 ![image](https://github.com/user-attachments/assets/8921b7bd-1f77-4e2d-bc31-37b7e157ef02)
 
