@@ -1,6 +1,6 @@
-<H3>Name</H3>Puli Naga Neeraj
-<H3>Register no.</H3>212223240130
-<H3>Date</H3>29-03-2025
+<H3>Name Puli Naga Neeraj</H3>
+<H3>Register no. 212223240130</H3>
+<H3>Date 29-03-2025</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
